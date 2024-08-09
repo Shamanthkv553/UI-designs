@@ -5,7 +5,7 @@ Welcome to the UI Design Repository! This repository showcases a collection of m
 ## Projects
 
 ### 1. Project Name
-[![Project Image](./UI_DESIGNS/boxing_des)](https://www.figma.com/design/ZswzkbCMHZLjOlf7PmmGbN/BOXINGCLUB-LD?node-id=0-1&t=fJIIJhd4LH80kZCt-0)
+[![Project Image](./UI_DESIGNS/boxing_des.png)](https://www.figma.com/design/ZswzkbCMHZLjOlf7PmmGbN/BOXINGCLUB-LD?node-id=0-1&t=fJIIJhd4LH80kZCt-0)
 
 **Description:**
 design made on boxing website landing page made by watching Rino de Boer youtube channel 
